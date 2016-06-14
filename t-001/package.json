@@ -1,0 +1,10 @@
+{
+  "name": "logsum",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./logsum input.txt"
+  },
+  "dependencies": {
+  }
+}

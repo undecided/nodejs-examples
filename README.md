@@ -26,6 +26,7 @@ Example output `{ A: 2, B: 14, C: 6 }`
         2013-08-09T13:53:33.166Z B 8
         2013-08-09T13:54:33.166Z B 5
 
+*ASSUMPTIONS:* All we care about are the last two tokens from any line. Everything else is discarded. Single token lines are ignored.
 
 T-002
 -----
